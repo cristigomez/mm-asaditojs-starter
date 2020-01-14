@@ -4,10 +4,10 @@ Desde tu terminal, clona y corre el proyecto:
 
 ```bash
 # clonamos nuestro proyecto
-$ git clone https://github.com/cobidev/mm-react-asadito-starter
+$ git clone https://github.com/cobidev/mm-asaditojs-starter
 
 # nos dirigimos a la carpeta del proyecto
-$ cd mm-react-asadito-starter
+$ cd mm-asaditojs-starter
 
 # removemos la conexion con el repositorio principal
 $ git remote remove origin
