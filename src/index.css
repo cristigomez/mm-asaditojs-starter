@@ -106,3 +106,7 @@ body {
   justify-self: stretch;
   overflow: hidden;
 }
+
+.list-item img {
+  object-fit: cover;
+}
