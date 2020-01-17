@@ -19,3 +19,9 @@ $ yarn
 $ yarn start
 ```
 Con esto deberian tener en pantalla un `Hola mundo` en el servidor local `http://localhost:3000/` 👍
+
+## API Urls
+
+https://api.giphy.com/v1/gifs/random?api_key=gH7glaXpjdIJUfGdtE2GO5FSQzi09bbY&tag=Cat&rating=G
+
+https://api.giphy.com/v1/gifs/random?api_key=r02zUovnSZ45Kz3vwb7fRkBxUuYNzv1V&tag=Cat&rating=G
